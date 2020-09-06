@@ -1,0 +1,13 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <blacklist />
+        <keywords>poop</keywords>
+        <mode>whitelist</mode>
+        <tellback>on</tellback>
+        <whitelist>Dayhunter,Caffinz,Doriani,Phrost,Rightball,Lyandria,Lirain,Acemonkey,Ildira,Leftball,Alixya</whitelist>
+    </global>
+    <kishr>
+        <keywords>Ariake,poop</keywords>
+    </kishr>
+</settings>
