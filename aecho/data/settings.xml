@@ -1,0 +1,11 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <alttrack>false</alttrack>
+        <buffs>sleep,dark arts,rapture,perpetuance,petrified,paralyze,light arts,slow,accession,manifestation,addendum: white,addendum: black,celerity,ebullience,penury,parsimony,alacrity,silence,immanence,stun</buffs>
+        <sitrack>true</sitrack>
+    </global>
+    <kishr>
+        <buffs>&lt;paralyze&gt;,paralyze,silence,&lt;cursed&gt;,&lt;dick&gt;,&lt;paralyzed&gt;</buffs>
+    </kishr>
+</settings>
